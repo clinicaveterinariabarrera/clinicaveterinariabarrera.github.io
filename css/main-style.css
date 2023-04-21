@@ -88,7 +88,7 @@ h1 a:hover {
 	color:#ef6669;
 }
 h2 {
-	margin-bottom:46px;
+	margin-bottom:23px;
 	text-transform:uppercase;
 }
 h2 a {
@@ -325,8 +325,9 @@ html.ie8 .header .nav__primary .sf-menu > li { margin:0; }
 }
 
 .header img.social {
-	width:44px;
-	height:44px;
+	width:35px;
+	height:35px;
+	filter: opacity(65%);
 }
 
 @media (min-width: 768px) and (max-width: 979px) {
