@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="es-ar">
 <head>
-        <meta charset="utf-8">
-        <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content=" | Cuidando a sus mascotas" />
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -18,7 +18,6 @@
 	<link rel="stylesheet" href="css/superfish.css">
 	-->
 	
-
 	<link rel="stylesheet" type="text/css" media="all" href="css/bootstrap.css" />
 	<link rel="stylesheet" type="text/css" media="all" href="css/responsive.css" />
 	<link rel="stylesheet" type="text/css" media="all" href="css/camera.css" />
@@ -29,20 +28,9 @@
 	<script type='text/javascript' src='js/superfish.js'></script>
 	<script type='text/javascript' src='js/hoverintent.js'></script>
 	<script type='text/javascript' src='js/supersubs.js'></script>
-	<script type='text/javascript' src='js/swfobject.js?ver=2.2-20120417'></script>
-	<script type='text/javascript' src='js/modernizr.js'></script>
-	<script type='text/javascript' src='js/jquery.elastislide.js?ver=1.0'></script>
-	<script type='text/javascript' src='js/jflickrfeed.js?ver=1.0'></script>
-  	<script type='text/javascript' src='js/custom.js'></script>
-	<script type='text/javascript' src='js/jquery-migrate-1.1.0.js'></script>
 
 
 <!--
-	<script type='text/javascript' src='js/jquery.js'></script>
-	<script type='text/javascript' src='js/superfish.js'></script>
-	<script type='text/javascript' src='js/hoverintent.js'></script>
-	<script type='text/javascript' src='js/supersubs.js'></script>
-
 	<script type='text/javascript' src='js/jquery-1.7.2.min.js'></script>
 	<script type='text/javascript' src='js/comment-reply.min.js?ver=3.6'></script>
 	<script type='text/javascript' src='js/my_script.js?ver=1.0'></script>
@@ -51,7 +39,7 @@
 	<script type='text/javascript' src='js/jquery.elastislide.js?ver=1.0'></script>
 	<script type='text/javascript' src='js/jflickrfeed.js?ver=1.0'></script>
 	<script type='text/javascript' src='js/bootstrap.min.js'></script>
-  	<script type='text/javascript' src='js/custom.js'></script>
+	<script type='text/javascript' src='js/custom.js'></script>
 	<script type='text/javascript' src='js/camera.min.js?ver=1.3.4'></script>
 	<script type='text/javascript' src='js/jquery-migrate-1.1.0.js'></script>
 -->	
@@ -217,25 +205,28 @@
 						<div class="row">
 							<div class="span12" data-motopress-type="static" data-motopress-static-file="static/static-slider.php">
 								<div id="slider-wrapper" class="slider">
-									<div class="container" style="padding-bottom: 0">
+									<div class="container">
                                           <div class="container">
                                              <div id="camera643768bc60716" class="camera_wrap camera">
-                                                <div data-src='images/sliders/slide_1.jpg' data-link='#' data-thumb='#'>
+                                                <div data-src='images/sliders/slide_1.jpg' data-link='sed-auctor-eget-nibh-vitae-pretium/mauris-posuere' data-thumb='images/sliders/slide_1-100x50.jpg'>
                                                    <div class="camera_caption fadeIn">
-                                                      <strong>Cuidando a sus compañeros</strong>
-                                                      <em>por mas de <span>20 años</span></em>
+                                                      <strong>Caring for Your Pets</strong>
+                                                      <em>for Over <span>25 Years</span></em>
+                                                      Beciegast nveriti vitaesasety kertya aset aplicabrde ertyasnemo <span>eniptaiades</span> uytrsas leyrterteertas bytrasade vtreasa.						
                                                    </div>
                                                 </div>
-                                                <div data-src='images/sliders/slide_2.jpg' data-link='#' data-thumb='#'>
+                                                <div data-src='images/sliders/slide_2.jpg' data-link='sed-dignissim-purus-ut-auctor/donec-tempor-libero' data-thumb='images/sliders/slide_2-100x50.jpg'>
                                                    <div class="camera_caption fadeIn">
-                                                      <strong>Mejorando la salúd</strong>
-                                                      <em>y el bienestar <span>de sus mascotas</span></em>
+                                                      <strong>Enhancing the health</strong>
+                                                      <em>and well-being of your <span>pets</span></em>
+                                                      Sed luctus, mauris at sollicitudin gravida, ipsum <span>ante accumsan</span> nisl, eu sollicitudin nisi quam ac tortor.						
                                                    </div>
                                                 </div>
-                                                <div data-src='images/sliders/slide_3.jpg' data-link='#' data-thumb='#'>
+                                                <div data-src='images/sliders/slide_3.jpg' data-link='vehicula-leo-ligula-dapibus-elit-sit/etiam-dictum-egestas' data-thumb='images/sliders/slide_3-100x50.jpg'>
                                                    <div class="camera_caption fadeIn">
-                                                      <strong>El mejor cuidado</strong>
-                                                      <em>para su <span> mejor amigo</span></em>
+                                                      <strong>Providing the best care</strong>
+                                                      <em>for your<span> best friend!</span></em>
+                                                      Ut euismod risus tortor, vitae congue dolor <span>consectetur</span> eget. Donec lorem ante, semper sit amet lacus eu						
                                                    </div>
                                                 </div>
                                              </div>
@@ -356,16 +347,21 @@
         </div>
      </footer>
 	
-	<script src="js/plugins.js"></script>
+	<!-- do not alter these 4 order as they will break navbar -->
+	<script type='text/javascript' src='js/jquery.js'></script>
+	<script type='text/javascript' src='js/superfish.js'></script>
+	<script type='text/javascript' src='js/hoverintent.js'></script>
+	<script type='text/javascript' src='js/supersubs.js'></script>
+
+	<script type='text/javascript' src='js/jquery.magnific-popup.min.js?ver=0.9.3'></script>
 	<script type='text/javascript' src='js/jquery.mobilemenu.js?ver=1.0'></script>
 	<script type='text/javascript' src='js/jquery.easing.1.3.js?ver=1.3'></script>
-	<script type='text/javascript' src='js/jquery.magnific-popup.min.js?ver=0.9.3'></script>
 	<script type='text/javascript' src='js/jquery.flexslider.js?ver=2.1'></script>
 	<script type='text/javascript' src='js/jplayer.playlist.min.js?ver=2.3.0'></script>
 	<script type='text/javascript' src='js/jquery.jplayer.min.js?ver=2.4.0'></script>
-	<script type='text/javascript' src='js/cameraold.min.js'></script>
-    <script src="js/bootstrap.min.js" type="text/javascript"></script>
 
+	<!-- Bootstrap script -->
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe" crossorigin="anonymous"></script>
 	
 
 	

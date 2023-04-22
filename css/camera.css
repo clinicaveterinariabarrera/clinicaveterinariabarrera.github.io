@@ -19,13 +19,17 @@
 	list-style: none
 }
 .camera_wrap {
+	direction: ltr;
 	display: none;
 	float: left;
 	position: relative;
 	z-index: 0;
 }
 .camera_wrap img {
-	max-width: none!important;
+/*	max-width: none!important; */
+  width: 1170x;
+  height: 585px;
+  object-fit: scale-down;
 }
 .camera_fakehover {
 	height: 100%;
